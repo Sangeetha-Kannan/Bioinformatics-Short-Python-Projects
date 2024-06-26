@@ -7,14 +7,14 @@ This repository contains bioinformatics scripts for parsing and analyzing geneti
 - [Overview](#overview)
 - [Usage Examples](#usage-examples)
   - [Parsing FASTA Files](/PROJECT1_Parsing_FASTA_file.ipynb)
-  - [Calculation of GC content](/PROJECT2_CALCULATE_GC_CONTENT.ipynb)
-  - [Finding Motifs in DNA Sequences](#finding-motifs-in-dna-sequences)
-  - [Generating Reverse Complements](#generating-reverse-complements)
-  - [Translating DNA to Protein](#translating-dna-to-protein)
-  - [Downloading and Parsing GenBank Files](#downloading-and-parsing-genbank-files)
+  - [Calculating GC content](/PROJECT2_CALCULATE_GC_CONTENT.ipynb)
+  - [Calculating Nucleotide Frequency](/PROJECT3_NUCLEOTIDE_FREQUENCY_CALCULATION.ipynb)
+  - [Translating DNA to Protein](/PROJECT4_TRANSLATE_DNA_TO_PROTEIN.ipynb)
+  - [Finding Motifs](/PROJECT5_FINDING_MOTIFS.ipynb)
+  - [Generating Reverse Complements](/PROJECT6_REVERSE_COMPLEMENT.ipynb)
+  - [Downloading and Parsing GenBank Files](/PROJECT7_PARSING_GENBANK.ipynb)
 - [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -25,3 +25,11 @@ This project provides tools for various bioinformatics tasks using Biopython. Th
 3. **Generating Reverse Complements**: Generate the reverse complement of DNA sequences.
 4. **Translating DNA to Protein**: Translate DNA sequences to their corresponding protein sequences.
 5. **Downloading and Parsing GenBank Files**: Download GenBank files and extract protein data.
+
+## Future Work
+
+1. Add more tools for genomic data analysis.
+2. Include error handling and logging.
+3. Create a user-friendly interface for these tools.
+4. Integrate with other bioinformatics libraries.
+
