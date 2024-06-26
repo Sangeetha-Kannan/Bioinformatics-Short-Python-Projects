@@ -28,8 +28,8 @@ This project provides tools for various bioinformatics tasks using Biopython. Th
 
 ## Future Work
 
-1. Add more tools for genomic data analysis.
-2. Include error handling and logging.
-3. Create a user-friendly interface for these tools.
-4. Integrate with other bioinformatics libraries.
+1. **Add more tools for genomic data analysis.**
+2. **Include error handling and logging.**
+3. **Create a user-friendly interface for these tools.**
+4. **Integrate with other bioinformatics libraries.**
 
