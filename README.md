@@ -7,7 +7,7 @@ This repository contains bioinformatics scripts for parsing and analyzing geneti
 - [Overview](#overview)
 - [Setup Instructions](#setup-instructions)
 - [Usage Examples](#usage-examples)
-  - [Parsing FASTA Files](/blob/main/PROJECT1_Parsing_FASTA_file.ipynb)
+  - [Parsing FASTA Files](/PROJECT1_Parsing_FASTA_file.ipynb)
   - [Finding Motifs in DNA Sequences](#finding-motifs-in-dna-sequences)
   - [Generating Reverse Complements](#generating-reverse-complements)
   - [Translating DNA to Protein](#translating-dna-to-protein)
